@@ -12,7 +12,7 @@ OUTSSAKKI Anisse et EL ALOUANI Naofel
 ## Présentation du TP
 
 Le projet de ce TP est de réaliser une carte multiservice permettant de contenir une identité (nom et prénom) ainsi qu’un solde d’unité qu’on pourra par la suite incrémenter ou décrémenter.
-Nous avons développé une application avec une interface graphique sous Qt réalisant toutes les fonctionnalités évoquant précédemment.
+Nous avons développé une application avec une interface graphique sous Qt réalisant toutes les fonctionnalités évoquées précédemment.
 
 ## Contact
 
